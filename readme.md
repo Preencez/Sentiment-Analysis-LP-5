@@ -1,4 +1,5 @@
 The primary objective of this project is to create a machine learning model that can evaluate the sentiment (positive, neutral, or negative) of Twitter posts specifically related to vaccinations. The model will analyze the content of these tweets and classify them based on their sentiment, providing valuable insights into public opinions and attitudes towards vaccinations on social media platforms.
+
 ![COVID-19 Vaccine](./images/vaccineillus976_rtrs.jpg)
 
 ![Sentiment Analysis](./images/sentiments_positive_negative_neutral.jpg)
