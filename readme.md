@@ -42,6 +42,44 @@ agreement: The percentage of agreement among the three reviewers for the given l
 Modelling
 ![Machine Learning Process](https://raw.githubusercontent.com/msambaraju/blog-usa/master/images/2019/03/Machine_Learning.png)
 
+Pre-trained Models and Fine-tuning
+![Pre-trained] (https://devblogs.nvidia.com/wp-content/uploads/2020/03/solution-architecture.png)
+
+The sentiment classification models used for analyzing sentiment in vaccination-related tweets are
+1. ROBERTA
+2. BERT 
+3. DISTILBERT
+These models have been fine-tuned specifically for sentiment classification and are capable of understanding the context of language and extracting meaningful representations from text.
+
+To utilize these models, the chosen model is loaded based on the user's preference using the corresponding identifier from the Hugging Face library. During the modeling process, parameter tuning and fine-tuning techniques were employed to optimize the models' performance.
+
+Hyperparameters such as learning rate, batch size, and number of epochs were adjusted to achieve the best possible results in accurately classifying tweets into positive, neutral, or negative sentiment categories regarding COVID-19 vaccinations. The ultimate goal is to effectively categorize tweets based on sentiment while ensuring the analysis is conducted in the English language.
+
+![hyperparameter Tunning](https://images.akira.ai/glossary/akira-ai-hyperparameter-tuning-ml-models.png)
 
 
+Evaluation
+RMSE is computed by taking the square root of the mean of the squared differences between the predicted values and the actual values.
+It offers a single numerical value that reflects the overall performance of the model, where lower values indicate higher accuracy.
+The RMSE metric enables straightforward interpretation of prediction errors in the same unit as the target variable. This means that the RMSE value can be directly related to the scale of the variable being predicted, making it easier to assess the magnitude of the model's errors.
 
+Deployment
+
+To deploy the model, follow these steps outlined here
+
+https://github.com/Preencez/Sentiment-Analysis-LP-5
+
+huggingface.co/Preencez/finetuned-Sentiment-classfication-ROBERTA-model
+
+Contact 
+For any inquiries or questions regarding the project, you can contact:
+
+Name: Faith Berida
+
+Role: Data Analyst
+
+Organization: Azubi Africa
+
+LinkedIn: https://www.linkedin.com/in/faith-toyin-berida-513097a2/
+
+Medium:
