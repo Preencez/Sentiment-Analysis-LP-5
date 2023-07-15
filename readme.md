@@ -40,7 +40,7 @@ label: The sentiment of the tweet, with -1 representing negative sentiment, 0 fo
 agreement: The percentage of agreement among the three reviewers for the given label.
 
 Modelling
-
+![Machine Learning Process](https://raw.githubusercontent.com/msambaraju/blog-usa/master/images/2019/03/Machine_Learning.png)
 
 
 
