@@ -2,7 +2,8 @@
 
 The primary objective of this project is to create a machine learning model that can evaluate the sentiment (positive, neutral, or negative) of Twitter posts specifically related to vaccinations. The model will analyze the content of these tweets and classify them based on their sentiment, providing valuable insights into public opinions and attitudes towards vaccinations on social media platforms.
 
-![COVID-19 Vaccine](readme.mdhttps://www.labrepco.com/wp-content/uploads/2020/09/vaccine-covid-19-1.jpg)
+![COVID-19 Vaccine](https://www.labrepco.com/wp-content/uploads/2020/09/vaccine-covid-19-1.jpg)
+
 
 
 ![Sentiment Analysis](./images/sentiments_positive_negative_neutral.jpg)
