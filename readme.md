@@ -1,6 +1,7 @@
+Covid_ 19 Tweet Sentiment Analysis
 The primary objective of this project is to create a machine learning model that can evaluate the sentiment (positive, neutral, or negative) of Twitter posts specifically related to vaccinations. The model will analyze the content of these tweets and classify them based on their sentiment, providing valuable insights into public opinions and attitudes towards vaccinations on social media platforms.
 
-![COVID-19 Vaccine](./images/vaccineillus976_rtrs.jpg)
+![COVID-19 Vaccine](.https://www.gannett-cdn.com/-mm-/703d4466c0364cef0cf6086bcdaeffc2de341b5f/c=0-36-2245-1299/local/-/media/2020/07/02/USATODAY/usatsports/covid-19-vaccine-bottles-with-2-toppled-over.jpg?width=2245&height=1263&fit=crop&format=pjpg&auto=webp)
 
 ![Sentiment Analysis](./images/sentiments_positive_negative_neutral.jpg)
 
