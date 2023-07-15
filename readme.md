@@ -1,4 +1,8 @@
-### Covid_ 19 Tweet Sentiment Analysis
+
+
+Covid_ 19 Tweet Sentiment Analysis
+
+![NLP](https://www.seacom.it/wp-content/uploads/2021/06/Natural-Language-Processing.png)
 
 The primary objective of this project is to create a machine learning model that can evaluate the sentiment (positive, neutral, or negative) of Twitter posts specifically related to vaccinations. The model will analyze the content of these tweets and classify them based on their sentiment, providing valuable insights into public opinions and attitudes towards vaccinations on social media platforms.
 
@@ -34,6 +38,9 @@ tweet_id: A unique identifier for each tweet.
 safe_tweet: The text content of the tweet with sensitive information (usernames, URLs) removed.
 label: The sentiment of the tweet, with -1 representing negative sentiment, 0 for neutral, and 1 for positive sentiment.
 agreement: The percentage of agreement among the three reviewers for the given label.
+
+Modelling
+
 
 
 
