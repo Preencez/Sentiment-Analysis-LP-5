@@ -19,8 +19,7 @@ The dataset comprises of tweets that have been collected and categorized using D
 Objective
 The primary objective is to develop a machine learning model capable of accurately predicting the sentiment of tweets related to vaccinations. The goal is to create a model that can effectively determine whether the sentiment of a given tweet is positive, neutral, or negative, providing valuable insights into public opinions and attitudes towards vaccinations.
 
-How to Participate
-You can obtain access to the dataset from Crowdbreaks.org by following the dataset link provided. The dataset includes labeled tweets that can be used as training data for developing your machine learning model. It is recommended to use this labeled data to train your model effectively.
+Three mmodels were trainined and the best model was picked 
 
 After training your model, you should evaluate its performance using appropriate evaluation metrics. Once your model is trained and evaluated, you can use it to make predictions on new or unseen data, such as the tweets provided in the Test.csv file.
 
@@ -82,4 +81,4 @@ Organization: Azubi Africa
 
 LinkedIn: https://www.linkedin.com/in/faith-toyin-berida-513097a2/
 
-Medium:
+Medium:https://princesstoy07.medium.com/analyzing-sentiment-analysis-on-public-opinion-regarding-covid-vaccines-using-pre-trained-75910ddfae31
